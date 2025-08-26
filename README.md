@@ -138,5 +138,8 @@ The app runs perfectly in web browsers for quick demonstrations.
 
 ## Demo Video
 
+ Live LInk: https://the-startup-idea-eva-4ow8.bolt.host/
+
+ Demo Video: https://drive.google.com/file/d/10KvsUwzDqcze03FZeVj5_iGHpqC9reSO/view?usp=drive_link
 
 Built with ❤️ for the Mobile App Internship Assignment
